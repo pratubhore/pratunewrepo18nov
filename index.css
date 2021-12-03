@@ -1,0 +1,30 @@
+body{
+    background-repeat: no-repeat;
+    background-position:cover ;
+    background-position: fixed;
+}
+    
+th{
+    background-color:rgb(238, 51, 191); 
+
+
+}
+
+
+table , th{
+    border:2px  solid black;
+    margin:50px 0px 0px 250px;
+      width:60vw;
+    height:20vh;
+    color:rgb(15, 15, 15);
+
+
+    border-collapse: collapse;
+} 
+tr, td{
+    border: 2px solid black;
+    border-collapse:collapse ;
+    text-align: center;
+    background-color: rgb(27, 212, 52);
+
+}
